@@ -3,7 +3,7 @@ Name:		indicator-datetime
 Version:	0.3.1
 Release:	1
 License:	GPLv3
-Url:		http://launchpad.net/indicator-datetime
+Url:		https://launchpad.net/indicator-datetime
 Group:		Graphical desktop/GNOME
 Source0:	http://launchpad.net/indicator-datetime/0.3/%{version}/+download/%{name}-%{version}.tar.gz
 Source1:	time-admin.svg 
